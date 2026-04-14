@@ -1,0 +1,6 @@
+{
+  "name": "SolarClarity Calculator",
+  "description": "A neutral solar rooftop calculator for UPPCL homeowners to estimate system size, cost, and savings.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
